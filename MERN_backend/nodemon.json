@@ -1,0 +1,13 @@
+{
+  "env": {
+    "DB_USER": "arnav",
+    "DB_PASSWORD": "Olympiad%40678",
+    "DB_NAME": "mern",
+    "GOOGLE_API_KEY": "AIzaSyCpgcVJZEE41coPQ9WdvQhE51SL0tuezB8",
+    "JWT_KEY": "supersecret_dont_share",
+    "AWS_SECRET_ACCESS_KEY": "J70Nxr7TgFnlwOZPiSiOLzlFzzI6Ihqy4m5lJ81a",
+    "AWS_ACCESS_KEY_ID": "AKIARE3AFZPEMG2UZJSM",
+    "AWS_REGION": "us-east-1",
+    "AWS_BUCKET_NAME": "your-places-images"
+  }
+}
